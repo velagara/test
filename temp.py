@@ -5,4 +5,9 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("This is fucking tough")
+sport=input ("Do you play any sports:")
+if sport=="yes":
+    print("I love football")
+else: 
+    print("I am a lazy bum")
+    
